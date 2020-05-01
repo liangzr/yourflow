@@ -1,0 +1,25 @@
+{
+  "name": "yourflow",
+  "version": "0.0.1",
+  "description": "Development framework of Alfred Workflow based on code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangzr/yourflow.git"
+  },
+  "keywords": [
+    "Alfred",
+    "Alfred",
+    "Workflow",
+    "framework"
+  ],
+  "author": "liangzr <liangzr@outlook.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/liangzr/yourflow/issues"
+  },
+  "homepage": "https://github.com/liangzr/yourflow#readme"
+}
